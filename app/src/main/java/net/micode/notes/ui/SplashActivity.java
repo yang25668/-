@@ -27,16 +27,6 @@ public class SplashActivity extends AppCompatActivity {
 //        playAudio(R.raw.testmusic);
 
 
-        // 获取 TextView 的引用
-        TextView textView = findViewById(R.id.fullscreen_content);
-
-        // 创建透明度动画对象，从完全透明到不透明
-        AlphaAnimation alphaAnimation = new AlphaAnimation(0f, 1f);
-        alphaAnimation.setDuration(ANIMATION_DURATION); // 设置动画持续时间
-
-        // 应用动画效果到 TextView 的背景上
-        textView.startAnimation(alphaAnimation);
-
         /**
          * 版本问题，目前主流已经废弃了~
          */

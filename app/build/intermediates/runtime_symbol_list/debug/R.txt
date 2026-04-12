@@ -654,7 +654,6 @@ int drawable notification_template_icon_bg 0x7f070094
 int drawable notification_template_icon_low_bg 0x7f070095
 int drawable notification_tile_bg 0x7f070096
 int drawable notify_panel_notification_icon_bg 0x7f070097
-int drawable op_start 0x7f070098
 int drawable search_result 0x7f070099
 int drawable selected 0x7f07009a
 int drawable title_alert 0x7f07009b
@@ -745,8 +744,6 @@ int id fill_horizontal 0x7f080046
 int id fill_vertical 0x7f080047
 int id font_size_selector 0x7f080048
 int id forever 0x7f080049
-int id fullscreen_content 0x7f08004a
-int id fullscreen_content_controls 0x7f08004b
 int id group_divider 0x7f08004c
 int id home 0x7f08004d
 int id homeAsUp 0x7f08004e

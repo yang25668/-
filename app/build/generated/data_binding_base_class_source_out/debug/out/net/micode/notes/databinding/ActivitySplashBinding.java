@@ -7,30 +7,17 @@ import android.view.LayoutInflater;
 import android.view.View;
 import android.view.ViewGroup;
 import android.viewbinding.ViewBinding;
-import android.viewbinding.ViewBindings;
 import android.widget.FrameLayout;
-import android.widget.LinearLayout;
-import android.widget.TextView;
 import java.lang.NullPointerException;
 import java.lang.Override;
-import java.lang.String;
 import net.micode.notes.R;
 
 public final class ActivitySplashBinding implements ViewBinding {
   @NonNull
   private final FrameLayout rootView;
 
-  @NonNull
-  public final TextView fullscreenContent;
-
-  @NonNull
-  public final LinearLayout fullscreenContentControls;
-
-  private ActivitySplashBinding(@NonNull FrameLayout rootView, @NonNull TextView fullscreenContent,
-      @NonNull LinearLayout fullscreenContentControls) {
+  private ActivitySplashBinding(@NonNull FrameLayout rootView) {
     this.rootView = rootView;
-    this.fullscreenContent = fullscreenContent;
-    this.fullscreenContentControls = fullscreenContentControls;
   }
 
   @Override
@@ -56,26 +43,10 @@ public final class ActivitySplashBinding implements ViewBinding {
 
   @NonNull
   public static ActivitySplashBinding bind(@NonNull View rootView) {
-    // The body of this method is generated in a way you would not otherwise write.
-    // This is done to optimize the compiled bytecode for size and performance.
-    int id;
-    missingId: {
-      id = R.id.fullscreen_content;
-      TextView fullscreenContent = ViewBindings.findChildViewById(rootView, id);
-      if (fullscreenContent == null) {
-        break missingId;
-      }
-
-      id = R.id.fullscreen_content_controls;
-      LinearLayout fullscreenContentControls = ViewBindings.findChildViewById(rootView, id);
-      if (fullscreenContentControls == null) {
-        break missingId;
-      }
-
-      return new ActivitySplashBinding((FrameLayout) rootView, fullscreenContent,
-          fullscreenContentControls);
+    if (rootView == null) {
+      throw new NullPointerException("rootView");
     }
-    String missingId = rootView.getResources().getResourceName(id);
-    throw new NullPointerException("Missing required view with ID: ".concat(missingId));
+
+    return new ActivitySplashBinding((FrameLayout) rootView);
   }
 }

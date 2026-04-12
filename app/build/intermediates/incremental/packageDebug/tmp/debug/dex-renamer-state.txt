@@ -1,4 +1,4 @@
-#Sun Apr 12 21:49:46 GMT+08:00 2026
-base.0=C\:\\Users\\hp\\Downloads\\Xiaomi_Note1-master (1)\\Xiaomi_Note1-master\\app\\build\\intermediates\\dex\\debug\\mergeDexDebug\\classes.dex
+#Sun Apr 12 23:29:24 GMT+08:00 2026
+base.0=D\:\\d\\photp\\Notes-master\\NOTESMASTER\\app\\build\\intermediates\\dex\\debug\\mergeDexDebug\\classes.dex
 renamed.0=classes.dex
 path.0=classes.dex

@@ -5,277 +5,277 @@
 5    android:versionName="1.0" >
 6
 7    <uses-sdk
-7-->C:\Users\hp\Downloads\Xiaomi_Note1-master (1)\Xiaomi_Note1-master\app\src\main\AndroidManifest.xml:8:5-44
+7-->D:\d\photp\Notes-master\NOTESMASTER\app\src\main\AndroidManifest.xml:8:5-44
 8        android:minSdkVersion="16"
-8-->C:\Users\hp\Downloads\Xiaomi_Note1-master (1)\Xiaomi_Note1-master\app\src\main\AndroidManifest.xml:8:15-41
+8-->D:\d\photp\Notes-master\NOTESMASTER\app\src\main\AndroidManifest.xml:8:15-41
 9        android:targetSdkVersion="20" />
-9-->C:\Users\hp\Downloads\Xiaomi_Note1-master (1)\Xiaomi_Note1-master\app\src\main\AndroidManifest.xml:8:5-44
+9-->D:\d\photp\Notes-master\NOTESMASTER\app\src\main\AndroidManifest.xml:8:5-44
 10
 11    <uses-permission android:name="android.permission.WRITE_EXTERNAL_STORAGE" />
-11-->C:\Users\hp\Downloads\Xiaomi_Note1-master (1)\Xiaomi_Note1-master\app\src\main\AndroidManifest.xml:10:5-81
-11-->C:\Users\hp\Downloads\Xiaomi_Note1-master (1)\Xiaomi_Note1-master\app\src\main\AndroidManifest.xml:10:22-78
+11-->D:\d\photp\Notes-master\NOTESMASTER\app\src\main\AndroidManifest.xml:10:5-81
+11-->D:\d\photp\Notes-master\NOTESMASTER\app\src\main\AndroidManifest.xml:10:22-78
 12    <uses-permission android:name="com.android.launcher.permission.INSTALL_SHORTCUT" />
-12-->C:\Users\hp\Downloads\Xiaomi_Note1-master (1)\Xiaomi_Note1-master\app\src\main\AndroidManifest.xml:11:5-88
-12-->C:\Users\hp\Downloads\Xiaomi_Note1-master (1)\Xiaomi_Note1-master\app\src\main\AndroidManifest.xml:11:22-85
+12-->D:\d\photp\Notes-master\NOTESMASTER\app\src\main\AndroidManifest.xml:11:5-88
+12-->D:\d\photp\Notes-master\NOTESMASTER\app\src\main\AndroidManifest.xml:11:22-85
 13    <uses-permission android:name="android.permission.INTERNET" />
-13-->C:\Users\hp\Downloads\Xiaomi_Note1-master (1)\Xiaomi_Note1-master\app\src\main\AndroidManifest.xml:12:5-67
-13-->C:\Users\hp\Downloads\Xiaomi_Note1-master (1)\Xiaomi_Note1-master\app\src\main\AndroidManifest.xml:12:22-64
+13-->D:\d\photp\Notes-master\NOTESMASTER\app\src\main\AndroidManifest.xml:12:5-67
+13-->D:\d\photp\Notes-master\NOTESMASTER\app\src\main\AndroidManifest.xml:12:22-64
 14    <uses-permission android:name="android.permission.READ_CONTACTS" />
-14-->C:\Users\hp\Downloads\Xiaomi_Note1-master (1)\Xiaomi_Note1-master\app\src\main\AndroidManifest.xml:13:5-72
-14-->C:\Users\hp\Downloads\Xiaomi_Note1-master (1)\Xiaomi_Note1-master\app\src\main\AndroidManifest.xml:13:22-69
+14-->D:\d\photp\Notes-master\NOTESMASTER\app\src\main\AndroidManifest.xml:13:5-72
+14-->D:\d\photp\Notes-master\NOTESMASTER\app\src\main\AndroidManifest.xml:13:22-69
 15    <uses-permission android:name="android.permission.MANAGE_ACCOUNTS" />
-15-->C:\Users\hp\Downloads\Xiaomi_Note1-master (1)\Xiaomi_Note1-master\app\src\main\AndroidManifest.xml:14:5-74
-15-->C:\Users\hp\Downloads\Xiaomi_Note1-master (1)\Xiaomi_Note1-master\app\src\main\AndroidManifest.xml:14:22-71
+15-->D:\d\photp\Notes-master\NOTESMASTER\app\src\main\AndroidManifest.xml:14:5-74
+15-->D:\d\photp\Notes-master\NOTESMASTER\app\src\main\AndroidManifest.xml:14:22-71
 16    <uses-permission android:name="android.permission.AUTHENTICATE_ACCOUNTS" />
-16-->C:\Users\hp\Downloads\Xiaomi_Note1-master (1)\Xiaomi_Note1-master\app\src\main\AndroidManifest.xml:15:5-80
-16-->C:\Users\hp\Downloads\Xiaomi_Note1-master (1)\Xiaomi_Note1-master\app\src\main\AndroidManifest.xml:15:22-77
+16-->D:\d\photp\Notes-master\NOTESMASTER\app\src\main\AndroidManifest.xml:15:5-80
+16-->D:\d\photp\Notes-master\NOTESMASTER\app\src\main\AndroidManifest.xml:15:22-77
 17    <uses-permission android:name="android.permission.GET_ACCOUNTS" />
-17-->C:\Users\hp\Downloads\Xiaomi_Note1-master (1)\Xiaomi_Note1-master\app\src\main\AndroidManifest.xml:16:5-71
-17-->C:\Users\hp\Downloads\Xiaomi_Note1-master (1)\Xiaomi_Note1-master\app\src\main\AndroidManifest.xml:16:22-68
+17-->D:\d\photp\Notes-master\NOTESMASTER\app\src\main\AndroidManifest.xml:16:5-71
+17-->D:\d\photp\Notes-master\NOTESMASTER\app\src\main\AndroidManifest.xml:16:22-68
 18    <uses-permission android:name="android.permission.USE_CREDENTIALS" />
-18-->C:\Users\hp\Downloads\Xiaomi_Note1-master (1)\Xiaomi_Note1-master\app\src\main\AndroidManifest.xml:17:5-74
-18-->C:\Users\hp\Downloads\Xiaomi_Note1-master (1)\Xiaomi_Note1-master\app\src\main\AndroidManifest.xml:17:22-71
+18-->D:\d\photp\Notes-master\NOTESMASTER\app\src\main\AndroidManifest.xml:17:5-74
+18-->D:\d\photp\Notes-master\NOTESMASTER\app\src\main\AndroidManifest.xml:17:22-71
 19    <uses-permission android:name="android.permission.RECEIVE_BOOT_COMPLETED" />
-19-->C:\Users\hp\Downloads\Xiaomi_Note1-master (1)\Xiaomi_Note1-master\app\src\main\AndroidManifest.xml:18:5-81
-19-->C:\Users\hp\Downloads\Xiaomi_Note1-master (1)\Xiaomi_Note1-master\app\src\main\AndroidManifest.xml:18:22-78
+19-->D:\d\photp\Notes-master\NOTESMASTER\app\src\main\AndroidManifest.xml:18:5-81
+19-->D:\d\photp\Notes-master\NOTESMASTER\app\src\main\AndroidManifest.xml:18:22-78
 20
 21    <application
-21-->C:\Users\hp\Downloads\Xiaomi_Note1-master (1)\Xiaomi_Note1-master\app\src\main\AndroidManifest.xml:20:5-145:19
+21-->D:\d\photp\Notes-master\NOTESMASTER\app\src\main\AndroidManifest.xml:20:5-145:19
 22        android:appComponentFactory="android.support.v4.app.CoreComponentFactory"
 22-->[com.android.support:support-compat:28.0.0] C:\Users\hp\.gradle\caches\transforms-3\94227f35fc2f952f978199b0daa11809\transformed\support-compat-28.0.0\AndroidManifest.xml:22:18-91
 23        android:debuggable="true"
 24        android:icon="@drawable/icon_app"
-24-->C:\Users\hp\Downloads\Xiaomi_Note1-master (1)\Xiaomi_Note1-master\app\src\main\AndroidManifest.xml:21:9-42
+24-->D:\d\photp\Notes-master\NOTESMASTER\app\src\main\AndroidManifest.xml:21:9-42
 25        android:label="@string/app_name"
-25-->C:\Users\hp\Downloads\Xiaomi_Note1-master (1)\Xiaomi_Note1-master\app\src\main\AndroidManifest.xml:22:9-41
+25-->D:\d\photp\Notes-master\NOTESMASTER\app\src\main\AndroidManifest.xml:22:9-41
 26        android:testOnly="true" >
 27
 28        <!-- 其他声明 -->
 29        <activity
-29-->C:\Users\hp\Downloads\Xiaomi_Note1-master (1)\Xiaomi_Note1-master\app\src\main\AndroidManifest.xml:26:9-30:47
+29-->D:\d\photp\Notes-master\NOTESMASTER\app\src\main\AndroidManifest.xml:26:9-30:47
 30            android:name="net.micode.notes.ui.ShowResultActivity"
-30-->C:\Users\hp\Downloads\Xiaomi_Note1-master (1)\Xiaomi_Note1-master\app\src\main\AndroidManifest.xml:27:17-54
+30-->D:\d\photp\Notes-master\NOTESMASTER\app\src\main\AndroidManifest.xml:27:17-54
 31            android:configChanges="orientation|keyboardHidden|screenSize"
-31-->C:\Users\hp\Downloads\Xiaomi_Note1-master (1)\Xiaomi_Note1-master\app\src\main\AndroidManifest.xml:28:17-78
+31-->D:\d\photp\Notes-master\NOTESMASTER\app\src\main\AndroidManifest.xml:28:17-78
 32            android:label="Show Result"
-32-->C:\Users\hp\Downloads\Xiaomi_Note1-master (1)\Xiaomi_Note1-master\app\src\main\AndroidManifest.xml:30:17-44
+32-->D:\d\photp\Notes-master\NOTESMASTER\app\src\main\AndroidManifest.xml:30:17-44
 33            android:theme="@style/Theme.AppCompat.Light.DarkActionBar" />
-33-->C:\Users\hp\Downloads\Xiaomi_Note1-master (1)\Xiaomi_Note1-master\app\src\main\AndroidManifest.xml:29:17-75
+33-->D:\d\photp\Notes-master\NOTESMASTER\app\src\main\AndroidManifest.xml:29:17-75
 34        <!-- 其他声明 -->
 35
 36        <activity
-36-->C:\Users\hp\Downloads\Xiaomi_Note1-master (1)\Xiaomi_Note1-master\app\src\main\AndroidManifest.xml:34:9-43:20
+36-->D:\d\photp\Notes-master\NOTESMASTER\app\src\main\AndroidManifest.xml:34:9-43:20
 37            android:name="net.micode.notes.ui.SplashActivity"
-37-->C:\Users\hp\Downloads\Xiaomi_Note1-master (1)\Xiaomi_Note1-master\app\src\main\AndroidManifest.xml:35:13-46
+37-->D:\d\photp\Notes-master\NOTESMASTER\app\src\main\AndroidManifest.xml:35:13-46
 38            android:configChanges="orientation|keyboardHidden|screenSize"
-38-->C:\Users\hp\Downloads\Xiaomi_Note1-master (1)\Xiaomi_Note1-master\app\src\main\AndroidManifest.xml:36:13-74
+38-->D:\d\photp\Notes-master\NOTESMASTER\app\src\main\AndroidManifest.xml:36:13-74
 39            android:theme="@style/Theme.Notes1.Fullscreen" >
-39-->C:\Users\hp\Downloads\Xiaomi_Note1-master (1)\Xiaomi_Note1-master\app\src\main\AndroidManifest.xml:37:13-59
+39-->D:\d\photp\Notes-master\NOTESMASTER\app\src\main\AndroidManifest.xml:37:13-59
 40            <intent-filter>
-40-->C:\Users\hp\Downloads\Xiaomi_Note1-master (1)\Xiaomi_Note1-master\app\src\main\AndroidManifest.xml:38:13-42:29
+40-->D:\d\photp\Notes-master\NOTESMASTER\app\src\main\AndroidManifest.xml:38:13-42:29
 41                <action android:name="android.intent.action.MAIN" />
-41-->C:\Users\hp\Downloads\Xiaomi_Note1-master (1)\Xiaomi_Note1-master\app\src\main\AndroidManifest.xml:39:17-69
-41-->C:\Users\hp\Downloads\Xiaomi_Note1-master (1)\Xiaomi_Note1-master\app\src\main\AndroidManifest.xml:39:25-66
+41-->D:\d\photp\Notes-master\NOTESMASTER\app\src\main\AndroidManifest.xml:39:17-69
+41-->D:\d\photp\Notes-master\NOTESMASTER\app\src\main\AndroidManifest.xml:39:25-66
 42
 43                <category android:name="android.intent.category.LAUNCHER" />
-43-->C:\Users\hp\Downloads\Xiaomi_Note1-master (1)\Xiaomi_Note1-master\app\src\main\AndroidManifest.xml:41:17-77
-43-->C:\Users\hp\Downloads\Xiaomi_Note1-master (1)\Xiaomi_Note1-master\app\src\main\AndroidManifest.xml:41:27-74
+43-->D:\d\photp\Notes-master\NOTESMASTER\app\src\main\AndroidManifest.xml:41:17-77
+43-->D:\d\photp\Notes-master\NOTESMASTER\app\src\main\AndroidManifest.xml:41:27-74
 44            </intent-filter>
 45        </activity>
 46        <activity
-46-->C:\Users\hp\Downloads\Xiaomi_Note1-master (1)\Xiaomi_Note1-master\app\src\main\AndroidManifest.xml:44:9-51:64
+46-->D:\d\photp\Notes-master\NOTESMASTER\app\src\main\AndroidManifest.xml:44:9-51:64
 47            android:name="net.micode.notes.ui.NotesListActivity"
-47-->C:\Users\hp\Downloads\Xiaomi_Note1-master (1)\Xiaomi_Note1-master\app\src\main\AndroidManifest.xml:45:13-49
+47-->D:\d\photp\Notes-master\NOTESMASTER\app\src\main\AndroidManifest.xml:45:13-49
 48            android:configChanges="keyboardHidden|orientation|screenSize"
-48-->C:\Users\hp\Downloads\Xiaomi_Note1-master (1)\Xiaomi_Note1-master\app\src\main\AndroidManifest.xml:46:13-74
+48-->D:\d\photp\Notes-master\NOTESMASTER\app\src\main\AndroidManifest.xml:46:13-74
 49            android:label="@string/app_name"
-49-->C:\Users\hp\Downloads\Xiaomi_Note1-master (1)\Xiaomi_Note1-master\app\src\main\AndroidManifest.xml:47:13-45
+49-->D:\d\photp\Notes-master\NOTESMASTER\app\src\main\AndroidManifest.xml:47:13-45
 50            android:launchMode="singleTop"
-50-->C:\Users\hp\Downloads\Xiaomi_Note1-master (1)\Xiaomi_Note1-master\app\src\main\AndroidManifest.xml:48:13-43
+50-->D:\d\photp\Notes-master\NOTESMASTER\app\src\main\AndroidManifest.xml:48:13-43
 51            android:theme="@style/Theme.AppCompat.Light.DarkActionBar"
-51-->C:\Users\hp\Downloads\Xiaomi_Note1-master (1)\Xiaomi_Note1-master\app\src\main\AndroidManifest.xml:49:13-71
+51-->D:\d\photp\Notes-master\NOTESMASTER\app\src\main\AndroidManifest.xml:49:13-71
 52            android:uiOptions="splitActionBarWhenNarrow"
-52-->C:\Users\hp\Downloads\Xiaomi_Note1-master (1)\Xiaomi_Note1-master\app\src\main\AndroidManifest.xml:50:13-57
+52-->D:\d\photp\Notes-master\NOTESMASTER\app\src\main\AndroidManifest.xml:50:13-57
 53            android:windowSoftInputMode="adjustPan" />
-53-->C:\Users\hp\Downloads\Xiaomi_Note1-master (1)\Xiaomi_Note1-master\app\src\main\AndroidManifest.xml:51:13-52
+53-->D:\d\photp\Notes-master\NOTESMASTER\app\src\main\AndroidManifest.xml:51:13-52
 54        <activity
-54-->C:\Users\hp\Downloads\Xiaomi_Note1-master (1)\Xiaomi_Note1-master\app\src\main\AndroidManifest.xml:52:9-85:20
+54-->D:\d\photp\Notes-master\NOTESMASTER\app\src\main\AndroidManifest.xml:52:9-85:20
 55            android:name="net.micode.notes.ui.NoteEditActivity"
-55-->C:\Users\hp\Downloads\Xiaomi_Note1-master (1)\Xiaomi_Note1-master\app\src\main\AndroidManifest.xml:53:13-48
+55-->D:\d\photp\Notes-master\NOTESMASTER\app\src\main\AndroidManifest.xml:53:13-48
 56            android:configChanges="keyboardHidden|orientation|screenSize"
-56-->C:\Users\hp\Downloads\Xiaomi_Note1-master (1)\Xiaomi_Note1-master\app\src\main\AndroidManifest.xml:54:13-74
+56-->D:\d\photp\Notes-master\NOTESMASTER\app\src\main\AndroidManifest.xml:54:13-74
 57            android:launchMode="singleTop"
-57-->C:\Users\hp\Downloads\Xiaomi_Note1-master (1)\Xiaomi_Note1-master\app\src\main\AndroidManifest.xml:55:13-43
+57-->D:\d\photp\Notes-master\NOTESMASTER\app\src\main\AndroidManifest.xml:55:13-43
 58            android:theme="@style/Theme.AppCompat.Light.DarkActionBar" >
-58-->C:\Users\hp\Downloads\Xiaomi_Note1-master (1)\Xiaomi_Note1-master\app\src\main\AndroidManifest.xml:56:13-71
+58-->D:\d\photp\Notes-master\NOTESMASTER\app\src\main\AndroidManifest.xml:56:13-71
 59
 60            <!-- android:theme="@style/NoteTheme" -->
 61
 62            <intent-filter>
-62-->C:\Users\hp\Downloads\Xiaomi_Note1-master (1)\Xiaomi_Note1-master\app\src\main\AndroidManifest.xml:60:13-67:29
+62-->D:\d\photp\Notes-master\NOTESMASTER\app\src\main\AndroidManifest.xml:60:13-67:29
 63                <action android:name="android.intent.action.VIEW" />
-63-->C:\Users\hp\Downloads\Xiaomi_Note1-master (1)\Xiaomi_Note1-master\app\src\main\AndroidManifest.xml:61:17-69
-63-->C:\Users\hp\Downloads\Xiaomi_Note1-master (1)\Xiaomi_Note1-master\app\src\main\AndroidManifest.xml:61:25-66
+63-->D:\d\photp\Notes-master\NOTESMASTER\app\src\main\AndroidManifest.xml:61:17-69
+63-->D:\d\photp\Notes-master\NOTESMASTER\app\src\main\AndroidManifest.xml:61:25-66
 64
 65                <category android:name="android.intent.category.DEFAULT" />
-65-->C:\Users\hp\Downloads\Xiaomi_Note1-master (1)\Xiaomi_Note1-master\app\src\main\AndroidManifest.xml:63:17-76
-65-->C:\Users\hp\Downloads\Xiaomi_Note1-master (1)\Xiaomi_Note1-master\app\src\main\AndroidManifest.xml:63:27-73
+65-->D:\d\photp\Notes-master\NOTESMASTER\app\src\main\AndroidManifest.xml:63:17-76
+65-->D:\d\photp\Notes-master\NOTESMASTER\app\src\main\AndroidManifest.xml:63:27-73
 66
 67                <data android:mimeType="vnd.android.cursor.item/text_note" />
-67-->C:\Users\hp\Downloads\Xiaomi_Note1-master (1)\Xiaomi_Note1-master\app\src\main\AndroidManifest.xml:65:17-78
-67-->C:\Users\hp\Downloads\Xiaomi_Note1-master (1)\Xiaomi_Note1-master\app\src\main\AndroidManifest.xml:65:23-75
+67-->D:\d\photp\Notes-master\NOTESMASTER\app\src\main\AndroidManifest.xml:65:17-78
+67-->D:\d\photp\Notes-master\NOTESMASTER\app\src\main\AndroidManifest.xml:65:23-75
 68                <data android:mimeType="vnd.android.cursor.item/call_note" />
-68-->C:\Users\hp\Downloads\Xiaomi_Note1-master (1)\Xiaomi_Note1-master\app\src\main\AndroidManifest.xml:65:17-78
-68-->C:\Users\hp\Downloads\Xiaomi_Note1-master (1)\Xiaomi_Note1-master\app\src\main\AndroidManifest.xml:65:23-75
+68-->D:\d\photp\Notes-master\NOTESMASTER\app\src\main\AndroidManifest.xml:65:17-78
+68-->D:\d\photp\Notes-master\NOTESMASTER\app\src\main\AndroidManifest.xml:65:23-75
 69            </intent-filter>
 70            <intent-filter>
-70-->C:\Users\hp\Downloads\Xiaomi_Note1-master (1)\Xiaomi_Note1-master\app\src\main\AndroidManifest.xml:68:13-75:29
+70-->D:\d\photp\Notes-master\NOTESMASTER\app\src\main\AndroidManifest.xml:68:13-75:29
 71                <action android:name="android.intent.action.INSERT_OR_EDIT" />
-71-->C:\Users\hp\Downloads\Xiaomi_Note1-master (1)\Xiaomi_Note1-master\app\src\main\AndroidManifest.xml:69:17-79
-71-->C:\Users\hp\Downloads\Xiaomi_Note1-master (1)\Xiaomi_Note1-master\app\src\main\AndroidManifest.xml:69:25-76
+71-->D:\d\photp\Notes-master\NOTESMASTER\app\src\main\AndroidManifest.xml:69:17-79
+71-->D:\d\photp\Notes-master\NOTESMASTER\app\src\main\AndroidManifest.xml:69:25-76
 72
 73                <category android:name="android.intent.category.DEFAULT" />
-73-->C:\Users\hp\Downloads\Xiaomi_Note1-master (1)\Xiaomi_Note1-master\app\src\main\AndroidManifest.xml:63:17-76
-73-->C:\Users\hp\Downloads\Xiaomi_Note1-master (1)\Xiaomi_Note1-master\app\src\main\AndroidManifest.xml:63:27-73
+73-->D:\d\photp\Notes-master\NOTESMASTER\app\src\main\AndroidManifest.xml:63:17-76
+73-->D:\d\photp\Notes-master\NOTESMASTER\app\src\main\AndroidManifest.xml:63:27-73
 74
 75                <data android:mimeType="vnd.android.cursor.item/text_note" />
-75-->C:\Users\hp\Downloads\Xiaomi_Note1-master (1)\Xiaomi_Note1-master\app\src\main\AndroidManifest.xml:65:17-78
-75-->C:\Users\hp\Downloads\Xiaomi_Note1-master (1)\Xiaomi_Note1-master\app\src\main\AndroidManifest.xml:65:23-75
+75-->D:\d\photp\Notes-master\NOTESMASTER\app\src\main\AndroidManifest.xml:65:17-78
+75-->D:\d\photp\Notes-master\NOTESMASTER\app\src\main\AndroidManifest.xml:65:23-75
 76                <data android:mimeType="vnd.android.cursor.item/call_note" />
-76-->C:\Users\hp\Downloads\Xiaomi_Note1-master (1)\Xiaomi_Note1-master\app\src\main\AndroidManifest.xml:65:17-78
-76-->C:\Users\hp\Downloads\Xiaomi_Note1-master (1)\Xiaomi_Note1-master\app\src\main\AndroidManifest.xml:65:23-75
+76-->D:\d\photp\Notes-master\NOTESMASTER\app\src\main\AndroidManifest.xml:65:17-78
+76-->D:\d\photp\Notes-master\NOTESMASTER\app\src\main\AndroidManifest.xml:65:23-75
 77            </intent-filter>
 78            <intent-filter>
-78-->C:\Users\hp\Downloads\Xiaomi_Note1-master (1)\Xiaomi_Note1-master\app\src\main\AndroidManifest.xml:76:13-80:29
+78-->D:\d\photp\Notes-master\NOTESMASTER\app\src\main\AndroidManifest.xml:76:13-80:29
 79                <action android:name="android.intent.action.SEARCH" />
-79-->C:\Users\hp\Downloads\Xiaomi_Note1-master (1)\Xiaomi_Note1-master\app\src\main\AndroidManifest.xml:77:17-71
-79-->C:\Users\hp\Downloads\Xiaomi_Note1-master (1)\Xiaomi_Note1-master\app\src\main\AndroidManifest.xml:77:25-68
+79-->D:\d\photp\Notes-master\NOTESMASTER\app\src\main\AndroidManifest.xml:77:17-71
+79-->D:\d\photp\Notes-master\NOTESMASTER\app\src\main\AndroidManifest.xml:77:25-68
 80
 81                <category android:name="android.intent.category.DEFAULT" />
-81-->C:\Users\hp\Downloads\Xiaomi_Note1-master (1)\Xiaomi_Note1-master\app\src\main\AndroidManifest.xml:63:17-76
-81-->C:\Users\hp\Downloads\Xiaomi_Note1-master (1)\Xiaomi_Note1-master\app\src\main\AndroidManifest.xml:63:27-73
+81-->D:\d\photp\Notes-master\NOTESMASTER\app\src\main\AndroidManifest.xml:63:17-76
+81-->D:\d\photp\Notes-master\NOTESMASTER\app\src\main\AndroidManifest.xml:63:27-73
 82            </intent-filter>
 83
 84            <meta-data
-84-->C:\Users\hp\Downloads\Xiaomi_Note1-master (1)\Xiaomi_Note1-master\app\src\main\AndroidManifest.xml:82:13-84:54
+84-->D:\d\photp\Notes-master\NOTESMASTER\app\src\main\AndroidManifest.xml:82:13-84:54
 85                android:name="android.app.searchable"
-85-->C:\Users\hp\Downloads\Xiaomi_Note1-master (1)\Xiaomi_Note1-master\app\src\main\AndroidManifest.xml:83:17-54
+85-->D:\d\photp\Notes-master\NOTESMASTER\app\src\main\AndroidManifest.xml:83:17-54
 86                android:resource="@xml/searchable" />
-86-->C:\Users\hp\Downloads\Xiaomi_Note1-master (1)\Xiaomi_Note1-master\app\src\main\AndroidManifest.xml:84:17-51
+86-->D:\d\photp\Notes-master\NOTESMASTER\app\src\main\AndroidManifest.xml:84:17-51
 87        </activity>
 88
 89        <provider
-89-->C:\Users\hp\Downloads\Xiaomi_Note1-master (1)\Xiaomi_Note1-master\app\src\main\AndroidManifest.xml:87:9-90:43
+89-->D:\d\photp\Notes-master\NOTESMASTER\app\src\main\AndroidManifest.xml:87:9-90:43
 90            android:name="net.micode.notes.data.NotesProvider"
-90-->C:\Users\hp\Downloads\Xiaomi_Note1-master (1)\Xiaomi_Note1-master\app\src\main\AndroidManifest.xml:88:13-47
+90-->D:\d\photp\Notes-master\NOTESMASTER\app\src\main\AndroidManifest.xml:88:13-47
 91            android:authorities="micode_notes"
-91-->C:\Users\hp\Downloads\Xiaomi_Note1-master (1)\Xiaomi_Note1-master\app\src\main\AndroidManifest.xml:89:13-47
+91-->D:\d\photp\Notes-master\NOTESMASTER\app\src\main\AndroidManifest.xml:89:13-47
 92            android:multiprocess="true" />
-92-->C:\Users\hp\Downloads\Xiaomi_Note1-master (1)\Xiaomi_Note1-master\app\src\main\AndroidManifest.xml:90:13-40
+92-->D:\d\photp\Notes-master\NOTESMASTER\app\src\main\AndroidManifest.xml:90:13-40
 93
 94        <receiver
-94-->C:\Users\hp\Downloads\Xiaomi_Note1-master (1)\Xiaomi_Note1-master\app\src\main\AndroidManifest.xml:92:9-104:20
+94-->D:\d\photp\Notes-master\NOTESMASTER\app\src\main\AndroidManifest.xml:92:9-104:20
 95            android:name="net.micode.notes.widget.NoteWidgetProvider_2x"
-95-->C:\Users\hp\Downloads\Xiaomi_Note1-master (1)\Xiaomi_Note1-master\app\src\main\AndroidManifest.xml:93:13-57
+95-->D:\d\photp\Notes-master\NOTESMASTER\app\src\main\AndroidManifest.xml:93:13-57
 96            android:label="@string/app_widget2x2" >
-96-->C:\Users\hp\Downloads\Xiaomi_Note1-master (1)\Xiaomi_Note1-master\app\src\main\AndroidManifest.xml:94:13-50
+96-->D:\d\photp\Notes-master\NOTESMASTER\app\src\main\AndroidManifest.xml:94:13-50
 97            <intent-filter>
-97-->C:\Users\hp\Downloads\Xiaomi_Note1-master (1)\Xiaomi_Note1-master\app\src\main\AndroidManifest.xml:95:13-99:29
+97-->D:\d\photp\Notes-master\NOTESMASTER\app\src\main\AndroidManifest.xml:95:13-99:29
 98                <action android:name="android.appwidget.action.APPWIDGET_UPDATE" />
-98-->C:\Users\hp\Downloads\Xiaomi_Note1-master (1)\Xiaomi_Note1-master\app\src\main\AndroidManifest.xml:96:17-84
-98-->C:\Users\hp\Downloads\Xiaomi_Note1-master (1)\Xiaomi_Note1-master\app\src\main\AndroidManifest.xml:96:25-81
+98-->D:\d\photp\Notes-master\NOTESMASTER\app\src\main\AndroidManifest.xml:96:17-84
+98-->D:\d\photp\Notes-master\NOTESMASTER\app\src\main\AndroidManifest.xml:96:25-81
 99                <action android:name="android.appwidget.action.APPWIDGET_DELETED" />
-99-->C:\Users\hp\Downloads\Xiaomi_Note1-master (1)\Xiaomi_Note1-master\app\src\main\AndroidManifest.xml:97:17-85
-99-->C:\Users\hp\Downloads\Xiaomi_Note1-master (1)\Xiaomi_Note1-master\app\src\main\AndroidManifest.xml:97:25-82
+99-->D:\d\photp\Notes-master\NOTESMASTER\app\src\main\AndroidManifest.xml:97:17-85
+99-->D:\d\photp\Notes-master\NOTESMASTER\app\src\main\AndroidManifest.xml:97:25-82
 100                <action android:name="android.intent.action.PRIVACY_MODE_CHANGED" />
-100-->C:\Users\hp\Downloads\Xiaomi_Note1-master (1)\Xiaomi_Note1-master\app\src\main\AndroidManifest.xml:98:17-85
-100-->C:\Users\hp\Downloads\Xiaomi_Note1-master (1)\Xiaomi_Note1-master\app\src\main\AndroidManifest.xml:98:25-82
+100-->D:\d\photp\Notes-master\NOTESMASTER\app\src\main\AndroidManifest.xml:98:17-85
+100-->D:\d\photp\Notes-master\NOTESMASTER\app\src\main\AndroidManifest.xml:98:25-82
 101            </intent-filter>
 102
 103            <meta-data
-103-->C:\Users\hp\Downloads\Xiaomi_Note1-master (1)\Xiaomi_Note1-master\app\src\main\AndroidManifest.xml:101:13-103:58
+103-->D:\d\photp\Notes-master\NOTESMASTER\app\src\main\AndroidManifest.xml:101:13-103:58
 104                android:name="android.appwidget.provider"
-104-->C:\Users\hp\Downloads\Xiaomi_Note1-master (1)\Xiaomi_Note1-master\app\src\main\AndroidManifest.xml:102:17-58
+104-->D:\d\photp\Notes-master\NOTESMASTER\app\src\main\AndroidManifest.xml:102:17-58
 105                android:resource="@xml/widget_2x_info" />
-105-->C:\Users\hp\Downloads\Xiaomi_Note1-master (1)\Xiaomi_Note1-master\app\src\main\AndroidManifest.xml:103:17-55
+105-->D:\d\photp\Notes-master\NOTESMASTER\app\src\main\AndroidManifest.xml:103:17-55
 106        </receiver>
 107        <receiver
-107-->C:\Users\hp\Downloads\Xiaomi_Note1-master (1)\Xiaomi_Note1-master\app\src\main\AndroidManifest.xml:105:9-117:20
+107-->D:\d\photp\Notes-master\NOTESMASTER\app\src\main\AndroidManifest.xml:105:9-117:20
 108            android:name="net.micode.notes.widget.NoteWidgetProvider_4x"
-108-->C:\Users\hp\Downloads\Xiaomi_Note1-master (1)\Xiaomi_Note1-master\app\src\main\AndroidManifest.xml:106:13-57
+108-->D:\d\photp\Notes-master\NOTESMASTER\app\src\main\AndroidManifest.xml:106:13-57
 109            android:label="@string/app_widget4x4" >
-109-->C:\Users\hp\Downloads\Xiaomi_Note1-master (1)\Xiaomi_Note1-master\app\src\main\AndroidManifest.xml:107:13-50
+109-->D:\d\photp\Notes-master\NOTESMASTER\app\src\main\AndroidManifest.xml:107:13-50
 110            <intent-filter>
-110-->C:\Users\hp\Downloads\Xiaomi_Note1-master (1)\Xiaomi_Note1-master\app\src\main\AndroidManifest.xml:95:13-99:29
+110-->D:\d\photp\Notes-master\NOTESMASTER\app\src\main\AndroidManifest.xml:95:13-99:29
 111                <action android:name="android.appwidget.action.APPWIDGET_UPDATE" />
-111-->C:\Users\hp\Downloads\Xiaomi_Note1-master (1)\Xiaomi_Note1-master\app\src\main\AndroidManifest.xml:96:17-84
-111-->C:\Users\hp\Downloads\Xiaomi_Note1-master (1)\Xiaomi_Note1-master\app\src\main\AndroidManifest.xml:96:25-81
+111-->D:\d\photp\Notes-master\NOTESMASTER\app\src\main\AndroidManifest.xml:96:17-84
+111-->D:\d\photp\Notes-master\NOTESMASTER\app\src\main\AndroidManifest.xml:96:25-81
 112                <action android:name="android.appwidget.action.APPWIDGET_DELETED" />
-112-->C:\Users\hp\Downloads\Xiaomi_Note1-master (1)\Xiaomi_Note1-master\app\src\main\AndroidManifest.xml:97:17-85
-112-->C:\Users\hp\Downloads\Xiaomi_Note1-master (1)\Xiaomi_Note1-master\app\src\main\AndroidManifest.xml:97:25-82
+112-->D:\d\photp\Notes-master\NOTESMASTER\app\src\main\AndroidManifest.xml:97:17-85
+112-->D:\d\photp\Notes-master\NOTESMASTER\app\src\main\AndroidManifest.xml:97:25-82
 113                <action android:name="android.intent.action.PRIVACY_MODE_CHANGED" />
-113-->C:\Users\hp\Downloads\Xiaomi_Note1-master (1)\Xiaomi_Note1-master\app\src\main\AndroidManifest.xml:98:17-85
-113-->C:\Users\hp\Downloads\Xiaomi_Note1-master (1)\Xiaomi_Note1-master\app\src\main\AndroidManifest.xml:98:25-82
+113-->D:\d\photp\Notes-master\NOTESMASTER\app\src\main\AndroidManifest.xml:98:17-85
+113-->D:\d\photp\Notes-master\NOTESMASTER\app\src\main\AndroidManifest.xml:98:25-82
 114            </intent-filter>
 115
 116            <meta-data
-116-->C:\Users\hp\Downloads\Xiaomi_Note1-master (1)\Xiaomi_Note1-master\app\src\main\AndroidManifest.xml:101:13-103:58
+116-->D:\d\photp\Notes-master\NOTESMASTER\app\src\main\AndroidManifest.xml:101:13-103:58
 117                android:name="android.appwidget.provider"
-117-->C:\Users\hp\Downloads\Xiaomi_Note1-master (1)\Xiaomi_Note1-master\app\src\main\AndroidManifest.xml:102:17-58
+117-->D:\d\photp\Notes-master\NOTESMASTER\app\src\main\AndroidManifest.xml:102:17-58
 118                android:resource="@xml/widget_4x_info" />
-118-->C:\Users\hp\Downloads\Xiaomi_Note1-master (1)\Xiaomi_Note1-master\app\src\main\AndroidManifest.xml:103:17-55
+118-->D:\d\photp\Notes-master\NOTESMASTER\app\src\main\AndroidManifest.xml:103:17-55
 119        </receiver>
 120        <receiver android:name="net.micode.notes.ui.AlarmInitReceiver" >
-120-->C:\Users\hp\Downloads\Xiaomi_Note1-master (1)\Xiaomi_Note1-master\app\src\main\AndroidManifest.xml:118:9-122:20
-120-->C:\Users\hp\Downloads\Xiaomi_Note1-master (1)\Xiaomi_Note1-master\app\src\main\AndroidManifest.xml:118:19-55
+120-->D:\d\photp\Notes-master\NOTESMASTER\app\src\main\AndroidManifest.xml:118:9-122:20
+120-->D:\d\photp\Notes-master\NOTESMASTER\app\src\main\AndroidManifest.xml:118:19-55
 121            <intent-filter>
-121-->C:\Users\hp\Downloads\Xiaomi_Note1-master (1)\Xiaomi_Note1-master\app\src\main\AndroidManifest.xml:119:13-121:29
+121-->D:\d\photp\Notes-master\NOTESMASTER\app\src\main\AndroidManifest.xml:119:13-121:29
 122                <action android:name="android.intent.action.BOOT_COMPLETED" />
-122-->C:\Users\hp\Downloads\Xiaomi_Note1-master (1)\Xiaomi_Note1-master\app\src\main\AndroidManifest.xml:120:17-79
-122-->C:\Users\hp\Downloads\Xiaomi_Note1-master (1)\Xiaomi_Note1-master\app\src\main\AndroidManifest.xml:120:25-76
+122-->D:\d\photp\Notes-master\NOTESMASTER\app\src\main\AndroidManifest.xml:120:17-79
+122-->D:\d\photp\Notes-master\NOTESMASTER\app\src\main\AndroidManifest.xml:120:25-76
 123            </intent-filter>
 124        </receiver>
 125        <receiver
-125-->C:\Users\hp\Downloads\Xiaomi_Note1-master (1)\Xiaomi_Note1-master\app\src\main\AndroidManifest.xml:123:9-125:50
+125-->D:\d\photp\Notes-master\NOTESMASTER\app\src\main\AndroidManifest.xml:123:9-125:50
 126            android:name="net.micode.notes.ui.AlarmReceiver"
-126-->C:\Users\hp\Downloads\Xiaomi_Note1-master (1)\Xiaomi_Note1-master\app\src\main\AndroidManifest.xml:124:13-45
+126-->D:\d\photp\Notes-master\NOTESMASTER\app\src\main\AndroidManifest.xml:124:13-45
 127            android:process=":remote" />
-127-->C:\Users\hp\Downloads\Xiaomi_Note1-master (1)\Xiaomi_Note1-master\app\src\main\AndroidManifest.xml:125:13-38
+127-->D:\d\photp\Notes-master\NOTESMASTER\app\src\main\AndroidManifest.xml:125:13-38
 128
 129        <activity
-129-->C:\Users\hp\Downloads\Xiaomi_Note1-master (1)\Xiaomi_Note1-master\app\src\main\AndroidManifest.xml:127:9-131:87
+129-->D:\d\photp\Notes-master\NOTESMASTER\app\src\main\AndroidManifest.xml:127:9-131:87
 130            android:name="net.micode.notes.ui.AlarmAlertActivity"
-130-->C:\Users\hp\Downloads\Xiaomi_Note1-master (1)\Xiaomi_Note1-master\app\src\main\AndroidManifest.xml:128:13-50
+130-->D:\d\photp\Notes-master\NOTESMASTER\app\src\main\AndroidManifest.xml:128:13-50
 131            android:label="@string/app_name"
-131-->C:\Users\hp\Downloads\Xiaomi_Note1-master (1)\Xiaomi_Note1-master\app\src\main\AndroidManifest.xml:129:13-45
+131-->D:\d\photp\Notes-master\NOTESMASTER\app\src\main\AndroidManifest.xml:129:13-45
 132            android:launchMode="singleInstance"
-132-->C:\Users\hp\Downloads\Xiaomi_Note1-master (1)\Xiaomi_Note1-master\app\src\main\AndroidManifest.xml:130:13-48
+132-->D:\d\photp\Notes-master\NOTESMASTER\app\src\main\AndroidManifest.xml:130:13-48
 133            android:theme="@android:style/Theme.Holo.Wallpaper.NoTitleBar" />
-133-->C:\Users\hp\Downloads\Xiaomi_Note1-master (1)\Xiaomi_Note1-master\app\src\main\AndroidManifest.xml:131:13-75
+133-->D:\d\photp\Notes-master\NOTESMASTER\app\src\main\AndroidManifest.xml:131:13-75
 134        <activity
-134-->C:\Users\hp\Downloads\Xiaomi_Note1-master (1)\Xiaomi_Note1-master\app\src\main\AndroidManifest.xml:132:9-136:72
+134-->D:\d\photp\Notes-master\NOTESMASTER\app\src\main\AndroidManifest.xml:132:9-136:72
 135            android:name="net.micode.notes.ui.NotesPreferenceActivity"
-135-->C:\Users\hp\Downloads\Xiaomi_Note1-master (1)\Xiaomi_Note1-master\app\src\main\AndroidManifest.xml:133:13-55
+135-->D:\d\photp\Notes-master\NOTESMASTER\app\src\main\AndroidManifest.xml:133:13-55
 136            android:label="@string/preferences_title"
-136-->C:\Users\hp\Downloads\Xiaomi_Note1-master (1)\Xiaomi_Note1-master\app\src\main\AndroidManifest.xml:134:13-54
+136-->D:\d\photp\Notes-master\NOTESMASTER\app\src\main\AndroidManifest.xml:134:13-54
 137            android:launchMode="singleTop"
-137-->C:\Users\hp\Downloads\Xiaomi_Note1-master (1)\Xiaomi_Note1-master\app\src\main\AndroidManifest.xml:135:13-43
+137-->D:\d\photp\Notes-master\NOTESMASTER\app\src\main\AndroidManifest.xml:135:13-43
 138            android:theme="@android:style/Theme.Holo.Light" />
-138-->C:\Users\hp\Downloads\Xiaomi_Note1-master (1)\Xiaomi_Note1-master\app\src\main\AndroidManifest.xml:136:13-60
+138-->D:\d\photp\Notes-master\NOTESMASTER\app\src\main\AndroidManifest.xml:136:13-60
 139
 140        <service
-140-->C:\Users\hp\Downloads\Xiaomi_Note1-master (1)\Xiaomi_Note1-master\app\src\main\AndroidManifest.xml:138:9-140:48
+140-->D:\d\photp\Notes-master\NOTESMASTER\app\src\main\AndroidManifest.xml:138:9-140:48
 141            android:name="net.micode.notes.gtask.remote.GTaskSyncService"
-141-->C:\Users\hp\Downloads\Xiaomi_Note1-master (1)\Xiaomi_Note1-master\app\src\main\AndroidManifest.xml:139:13-58
+141-->D:\d\photp\Notes-master\NOTESMASTER\app\src\main\AndroidManifest.xml:139:13-58
 142            android:exported="false" />
-142-->C:\Users\hp\Downloads\Xiaomi_Note1-master (1)\Xiaomi_Note1-master\app\src\main\AndroidManifest.xml:140:13-37
+142-->D:\d\photp\Notes-master\NOTESMASTER\app\src\main\AndroidManifest.xml:140:13-37
 143
 144        <meta-data
-144-->C:\Users\hp\Downloads\Xiaomi_Note1-master (1)\Xiaomi_Note1-master\app\src\main\AndroidManifest.xml:142:9-144:52
+144-->D:\d\photp\Notes-master\NOTESMASTER\app\src\main\AndroidManifest.xml:142:9-144:52
 145            android:name="android.app.default_searchable"
-145-->C:\Users\hp\Downloads\Xiaomi_Note1-master (1)\Xiaomi_Note1-master\app\src\main\AndroidManifest.xml:143:13-58
+145-->D:\d\photp\Notes-master\NOTESMASTER\app\src\main\AndroidManifest.xml:143:13-58
 146            android:value=".ui.NoteEditActivity" />
-146-->C:\Users\hp\Downloads\Xiaomi_Note1-master (1)\Xiaomi_Note1-master\app\src\main\AndroidManifest.xml:144:13-49
+146-->D:\d\photp\Notes-master\NOTESMASTER\app\src\main\AndroidManifest.xml:144:13-49
 147    </application>
 148
 149</manifest>
