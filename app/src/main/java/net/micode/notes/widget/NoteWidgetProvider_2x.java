@@ -23,23 +23,30 @@ import net.micode.notes.R;
 import net.micode.notes.data.Notes;
 import net.micode.notes.tool.ResourceParser;
 
-
+// 2x 尺寸桌面小部件实现类
+// 继承自 NoteWidgetProvider，实现具体的样式和类型
 public class NoteWidgetProvider_2x extends NoteWidgetProvider {
+
+    // 小部件更新时调用
+    // 调用父类的 update 方法完成实际更新逻辑
     @Override
     public void onUpdate(Context context, AppWidgetManager appWidgetManager, int[] appWidgetIds) {
         super.update(context, appWidgetManager, appWidgetIds);
     }
 
+    // 获取 2x 小部件对应的布局文件
     @Override
     protected int getLayoutId() {
         return R.layout.widget_2x;
     }
 
+    // 根据背景色ID获取 2x 小部件的背景图片资源
     @Override
     protected int getBgResourceId(int bgId) {
         return ResourceParser.WidgetBgResources.getWidget2xBgResource(bgId);
     }
 
+    // 获取小部件类型：2x 版本
     @Override
     protected int getWidgetType() {
         return Notes.TYPE_WIDGET_2X;
